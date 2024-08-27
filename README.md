@@ -10,6 +10,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 #### Bibliotecas e Frameworks:
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
@@ -22,6 +26,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lindainesv&repo=Casa-de-Cambio-Trybe&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FE8330&text_color=FFF)](https://github.com/lindainesv/Casa-de-Cambio-Trybe) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lindainesv&repo=jogodaforca&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FE8330&text_color=FFF)](https://github.com/lindainesv/jogodaforca)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lindainesv&repo=decodificadordetexto&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FE8330&text_color=FFF)](https://github.com/lindainesv/decodificadordetexto) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lindainesv&repo=docker-todo-list&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FE8330&text_color=FFF)](https://github.com/lindainesv/docker-todo-list)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lindainesv&repo=docker-todo-list&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FE8330&text_color=FFF)](https://github.com/lindainesv/docker-todo-list)
 
 ### Minhas Estatísticas de Sequência
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lindainesv&theme=sunset-gradient&background=&border=000&dates=000)](https://git.io/streak-stats)
